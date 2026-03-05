@@ -1,4 +1,4 @@
-# EatingGame
+# EatingGame div 3 contest
 A. Eating Game
 time limit per test
 1 second
